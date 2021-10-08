@@ -1,5 +1,5 @@
 {
-    "name": "darkname/yii2-notification-wrapper",
+    "name": "loveorigami/yii2-notification-wrapper",
     "description": "This module for renders a message from session flash (with ajax, pjax support and etc.)",
     "version": "6.7.2",
     "type": "yii2-extension",
