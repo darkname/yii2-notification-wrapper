@@ -11,7 +11,7 @@ use yii\web\AssetBundle;
 class ToastrAsset extends AssetBundle
 {
     /** @var string  */
-    public $sourcePath = '@bower/toastr';
+    public $sourcePath = '@npm/toastr';
 
     /** @var array $css */
     public $css = [
