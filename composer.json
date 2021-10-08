@@ -1,5 +1,5 @@
 {
-    "name": "loveorigami/yii2-notification-wrapper",
+    "name": "darkname/yii2-notification-wrapper",
     "description": "This module for renders a message from session flash (with ajax, pjax support and etc.)",
     "version": "6.7.2",
     "type": "yii2-extension",
@@ -7,7 +7,7 @@
         "yii2", "module", "notification", "flash",
         "noty", "toast", "toastr", "growl", "alert", "notyjs", "notyfy", "pnotyfy", "notific8", "lobibox", "sweetalert"
     ],
-    "homepage": "https://github.com/loveorigami/yii2-notification-wrapper",
+    "homepage": "https://github.com/darkname/yii2-notification-wrapper",
     "time": "2016-03-31",
     "license": "MIT",
     "authors": [
