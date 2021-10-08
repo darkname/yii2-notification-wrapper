@@ -4,8 +4,8 @@ Installation
 --------
 
 ```bash
-"loveorigami/yii2-notification-wrapper": "*",
-"bower-asset/toastr": "^2.1"
+"darkname/yii2-notification-wrapper": "*",
+"npm-asset/toastr": "^2.1"
 ```
 
 to the ```require``` section of your `composer.json` file.
